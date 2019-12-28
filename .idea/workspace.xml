@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1b06b5b2-c379-459e-99fb-6b3c4f52203e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VbUMSTkNBggh73LqASNRwB0iQg" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../spring-social-login" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../spring-social-login/src/main/resources" />
+      <recent name="$PROJECT_DIR$/../spring-jpa-basic/src/main/resources" />
+      <recent name="$PROJECT_DIR$/../spring-jpa-basic" />
+      <recent name="$PROJECT_DIR$/../spring-jpa-basic/src" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../spring-social-login" />
+      <recent name="$PROJECT_DIR$/../spring-jpa-basic" />
+      <recent name="$PROJECT_DIR$/../spring-jpa-basic/src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.App (1)">
+    <configuration name="App (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.romaniuk.App" />
+      <module name="spring-rest-basic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.romaniuk.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.romaniuk.App" />
+      <module name="spring-jpa-basic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.romaniuk.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RestSpringJpaApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.romaniuk.RestSpringJpaApplication" />
+      <module name="spring-jpa-basic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.romaniuk.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.romaniuk.SpringApplication" />
+      <module name="spring-social-login" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.romaniuk.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App (1)" />
+        <item itemvalue="Application.RestSpringJpaApplication" />
+        <item itemvalue="Application.SpringApplication" />
+        <item itemvalue="Application.App" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1b06b5b2-c379-459e-99fb-6b3c4f52203e" name="Default Changelist" comment="" />
+      <created>1577521239064</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577521239064</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2480" y="169" key="#Project_Structure" timestamp="1577522293328">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2480" y="169" key="#Project_Structure/0.24.1920.993/1920.0.1920.1080@1920.0.1920.1080" timestamp="1577522293328" />
+    <state x="2596" y="368" width="568" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1577521345827">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2596" y="368" width="568" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.24.1920.993/1920.0.1920.1080@1920.0.1920.1080" timestamp="1577521345826" />
+    <state width="1874" height="475" key="GridCell.Tab.0.bottom" timestamp="1577523186599">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="475" key="GridCell.Tab.0.bottom/0.24.1920.993/1920.0.1920.1080@1920.0.1920.1080" timestamp="1577523186599" />
+    <state width="1874" height="475" key="GridCell.Tab.0.center" timestamp="1577523186599">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="475" key="GridCell.Tab.0.center/0.24.1920.993/1920.0.1920.1080@1920.0.1920.1080" timestamp="1577523186599" />
+    <state width="1874" height="475" key="GridCell.Tab.0.left" timestamp="1577523186599">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="475" key="GridCell.Tab.0.left/0.24.1920.993/1920.0.1920.1080@1920.0.1920.1080" timestamp="1577523186599" />
+    <state width="1874" height="475" key="GridCell.Tab.0.right" timestamp="1577523186599">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="475" key="GridCell.Tab.0.right/0.24.1920.993/1920.0.1920.1080@1920.0.1920.1080" timestamp="1577523186599" />
+    <state x="2374" y="142" key="SettingsEditor" timestamp="1577522736542">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2374" y="142" key="SettingsEditor/0.24.1920.993/1920.0.1920.1080@1920.0.1920.1080" timestamp="1577522736542" />
+    <state x="2194" y="110" key="new project wizard" timestamp="1577521836142">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2194" y="110" key="new project wizard/0.24.1920.993/1920.0.1920.1080@1920.0.1920.1080" timestamp="1577521836142" />
+  </component>
+</project>
